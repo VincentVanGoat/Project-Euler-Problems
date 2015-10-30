@@ -1,2 +1,2 @@
 # Project-Euler-Problems
-Just a boy(not in CS) trying to solve some Project Euler problems in python.
+Just a boy trying to solve some Project Euler problems in python.
